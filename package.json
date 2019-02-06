@@ -1,0 +1,11 @@
+{
+  "name": "DavidSuzukiVexRobotics",
+  "version": "0.1.0",
+  "main": "server.js",
+  "author": "Varan Gill",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
